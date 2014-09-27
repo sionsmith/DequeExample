@@ -1,4 +1,4 @@
-DequeExample
+Java Deque Interface Example
 ============
 
 <b>Interview Question: </b><br/>
