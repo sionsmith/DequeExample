@@ -1,7 +1,7 @@
 DequeExample
 ============
 
-Interview Question: <br/><br/>
+**Interview Question: <br/>
 
 "Please could you create a Java class that contains a method that takes a single parameter (a long), and returns the largest value that the method has been called with within ten minutes of the current invocation.
 
